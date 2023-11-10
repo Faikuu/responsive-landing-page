@@ -2,6 +2,8 @@
 
 Simple yet aesthetic landing page made with bootstrap library.
 
+![Alt screenshot](https://i.imgur.com/CFydFoS.png)
+
 ## 📊Features
 
 - Responsive, shows properly on mobile devices.
